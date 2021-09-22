@@ -8,7 +8,7 @@
   header{
       background-image: url(../img/jumbo.png);
       background-size: cover;
-      height: 80vh;
+      height: 70vh;
   }
 
   #logo{
@@ -64,8 +64,9 @@
     }
 
     h1{
-        margin: 30px;
         font-size: 40px;
+        margin-bottom: 20px;
+        margin-top: 30px;
     }
 
     p{
@@ -90,4 +91,21 @@
         border-radius: 50px;
         margin-top: 15px;
     }
+
+    .container-item{
+        float: right;
+        margin-top: 50px;
+    }
+
+    #img1-item{
+        margin-left: 10%;
+    }
+
+    .right{
+        float: right;
+        width: 25%;
+        margin-right: 15%;
+        text-align: left;
+    }
+
 
