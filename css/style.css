@@ -60,15 +60,34 @@
         left: 50%;
         transform: translate(-50%,-50%);
         margin-top: -130px;
+        text-align: center;
     }
 
     h1{
         margin: 30px;
-        text-align: center;
         font-size: 40px;
     }
 
     p{
-        text-align: center;
         font-size: 18px;
     }
+
+    #button-mac{
+        margin-top: 15px;
+        font-size: 15px;
+        padding: 10px;
+        background-color: white;
+        border: 1px solid white;
+        border-radius: 50px;
+    }
+
+    #button-nero{
+        font-size: 15px;
+        padding: 10px;
+        color: white;
+        background-color:#23272a;
+        border: 1px solid #23272a;
+        border-radius: 50px;
+        margin-top: 15px;
+    }
+
