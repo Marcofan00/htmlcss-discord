@@ -55,12 +55,9 @@
 
     .container-center{
         color: white;
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%,-50%);
-        margin-top: -130px;
         text-align: center;
+        margin: 90px auto;
+        width: 50%; 
     }
 
     h1{
