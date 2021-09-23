@@ -9,6 +9,7 @@
       background-image: url(../img/jumbo.png);
       background-size: cover;
       height: 70vh;
+      text-align: center;
   }
 
   #logo{
@@ -41,6 +42,7 @@
         vertical-align: middle;
         display: inline-block;
         margin-top: -15px;
+        margin-right: 50px;
     } 
 
     .button{
@@ -92,6 +94,7 @@
     .container-item{
         float: right;
         margin-top: 50px;
+        height: 100vh;
     }
 
     #img1-item{
@@ -103,6 +106,17 @@
         width: 25%;
         margin-right: 15%;
         text-align: left;
+    }
+
+    .sec-container-item{
+        height: 100vh;
+        width: 25%;
+        margin-left: 15%;
+        text-align: left;
+    }
+
+    #img2{
+        float: right;
     }
 
 
